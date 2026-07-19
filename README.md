@@ -7,7 +7,7 @@
 ![Tailwind](https://img.shields.io/badge/Tailwind-3-38B2AC?logo=tailwind-css&logoColor=white)
 ![Deploy](https://img.shields.io/badge/Vercel-Auto--Deploy-000?logo=vercel&logoColor=white)
 
-[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/bikash-20/vegitable-selling-wbsite)
+[![Deploy with Vercel](https://vercel.com/button)](https://vercel.com/new/clone?repository-url=https://github.com/bikash-20/sylhet-vegitable-website-)
 
 ## What it is
 
